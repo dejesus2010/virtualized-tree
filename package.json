@@ -1,7 +1,7 @@
 {
-  "name": "react-virtualized-tree",
-  "version": "2.0.2",
-  "description": "react-virtualized-tree React component",
+  "name": "virtualized-tree",
+  "version": "1.0.4",
+  "description": "Forked version of react-virtualized-tree React component to specifically fit my needs. No one but me should be using this project",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -116,10 +116,10 @@
     "bracketSpacing": false,
     "jsxBracketSameLine": false
   },
-  "author": "Diogo Cunha",
-  "homepage": "https://diogofcunha.github.io/react-virtualized-tree/",
+  "author": "Ryan DeJesus. Original Code: Diogo Cunha",
+  "homepage": "https://github.com/dejesus2010/virtualized-tree",
   "license": "MIT",
-  "repository": "https://github.com/diogofcunha/react-virtualized-tree/",
+  "repository": "https://github.com/dejesus2010/virtualized-tree",
   "keywords": [
     "react",
     "tree",
